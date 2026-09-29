@@ -1,0 +1,1 @@
+{"name":"Local: hola","url":"/Users/miquelparisisaura/Library/Mobile Documents/com~apple~CloudDocs/UNI/pro1/hola.cpp","tests":[{"id":1790669392988,"input":"hello and bye","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/miquelparisisaura/Library/Mobile Documents/com~apple~CloudDocs/UNI/pro1/hola.cpp","group":"local","local":true}
