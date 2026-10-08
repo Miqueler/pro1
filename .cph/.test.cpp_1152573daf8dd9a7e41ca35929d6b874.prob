@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/miquelparisisaura/Library/Mobile Documents/com~apple~CloudDocs/UNI/pro1/test.cpp","tests":[{"id":1790860102655,"input":"3 4\n2735\n0479\n1508","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/miquelparisisaura/Library/Mobile Documents/com~apple~CloudDocs/UNI/pro1/test.cpp","group":"local","local":true}
