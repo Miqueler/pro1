@@ -7,15 +7,15 @@ int main()
     cin >> n;
     for (int i = 1; i < 10; ++i)
     {
-        for (int j = 0; j < n - 1; j++)
+        for (int j = 0; j < 10; j++)
         {
-            for (int s = 0; s < n - 1; s++)
+            if (i != j)
             {
-                if (i != j)
+                for (int k = 0; k < n - 1; k++)
                 {
-                    for (int k = 0; k < n; k++)
+                    for (int l = 0; l < n; l++)
                     {
-                        if (k < s)
+                        if (l <= k)
                         {
                             cout << i;
                         }
